@@ -35,7 +35,7 @@ This is a front-end clone of the PayPal website, built from scratch as a learnin
 - Small Mobile: <400px
 
 ## Installation & Usage
-1. Clone or download the repository
+1. Clone  the repository
 2. Open `index.html` in your browser
 3. No build process or dependencies required
 
